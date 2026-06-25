@@ -1,1 +1,3 @@
-كومبي لك صدكت ههه
+print("حسنين عمك")
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/comg92-stack/Script-Neymar-/refs/heads/main/Neymar.txt"))()
